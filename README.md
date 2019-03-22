@@ -7,6 +7,7 @@ This is a quick project to demonstrate a trustline.
 Install node v11 > 
 ```sh
 git clone git@github.com/zcstarr/trustline
+cd trustline
 npm install
 ```
 
